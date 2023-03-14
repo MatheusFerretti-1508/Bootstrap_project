@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#preço p {
+    width: 300px;
+}
+
+time {
+    display: block;
+}
+
+.post {
+    margin-bottom: 24px;
+}
